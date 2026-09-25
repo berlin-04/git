@@ -12,4 +12,5 @@ Ce dépôt sert à simuler deux membres d'une équipe (Alice et Bob) qui modifie
 2. Modification simultanée de la même ligne
 3. Push, échec, pull, conflit
 4. Résolution manuelle et push final
-5. versiion bob
+5. version alice
+
